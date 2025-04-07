@@ -1,6 +1,6 @@
 ---
 title: Welcome to Quartz
 ---
+از فهرست سمت راست میتونید جزوه‌ای که میخواید انتخاب کنید. 
+اگر از گوشی استفاده میکنید، توی تنظیمات Desktap view رو فعال کنید. 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
